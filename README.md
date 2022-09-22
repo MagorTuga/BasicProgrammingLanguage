@@ -18,6 +18,7 @@ Logical AND is represented with '&' and OR is represented with '|'.
 -String operation and comparison.
 
 Priority of operation in order:
+```
 ( )
 * /
 + -
@@ -26,5 +27,6 @@ Priority of operation in order:
 == !=
 &
 |
+```
 
 Lines of code must end with a semicolon.
