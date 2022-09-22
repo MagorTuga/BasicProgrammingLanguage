@@ -32,5 +32,7 @@ Priority of operation in order:
 Lines of code must end with a semicolon.
 
 The language does not need to be built.
+
 Python 3.8.10 or higher needs to be installed in order to run the application.
+
 Access to the Python terminal or an IDE with Python support is required.
