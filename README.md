@@ -1,4 +1,4 @@
-# BasicProgrammingLanguage
+# Basic Programming Language
 
 Run the 'interpreter.exe' file with any Python terminal of choice.
 Visual Studio Code was used for development.
